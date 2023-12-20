@@ -14,14 +14,19 @@ Good luck.
 ## The Very High-level Stuff
 
 ### What is an LLM?
+A Large Language Model is.....
 
 ### Is ChatGPT an LLM?
+Yes. ChatGPT is a commercial product by OpenAI, who was first to provide mass-market access to a commercial grade LLM.
 
 ### What can an LLM do for me?
+Nap, this for you
 
 ### What can't LLMs do? (particularly well. yet.)
+This too.
 
-### Can I run my own LLM?
+### Can I run my own LLM? Legally?
+Yes. And yes. If you are allowed to own and operate a computer, you may also run your own LLM. As far as we know.
 
 ### Can I create my own LLM?
 Yes. But not yet, young padavan. You don't know what what that means yet. And we don't know what *you* mean by 'create' exactly. So hold that thought for a while.
