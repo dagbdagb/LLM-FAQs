@@ -60,6 +60,7 @@ The terminology you find in this section may be some of the first stumbling bloc
 ### LLM quantization
 
 ### Offloading
+Offloading in the context of running LLMs refers to the use of both GPU VRAM **and** system RAM for holding a model. There are various ways of achieving this, and not all current model formats can support this feature. 
 
 ### Loader
 
@@ -80,6 +81,17 @@ The terminology you find in this section may be some of the first stumbling bloc
 ### API
 
 ### Multi-modality
+
+#### Text
+
+#### Vision
+
+#### Audio
+
+
+
+### Function calling
+
 
 
 
