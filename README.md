@@ -7,7 +7,7 @@ Also, this is not intended to be a deep-dive into any particular concept within 
 
 We have tried to order sections and sub-topics in a somewhat logic or pedagogic order. Feel free to tell us where we fail at this.
 
-Finally, it is not our intention to promote any particular hardware, software, company, brand, person or other entity. We just want this to be a guide for your personal journey, and not to guide you down a particular path.  
+Finally, it is not our intention to *promote* any particular hardware, software, company, brand, person or other entity. We just want this to be a guide for your personal journey, and not to guide you down a particular path. That said, we all appreciate working examples. So we will definitely *name* things we have tried and found working for us.
 
 Good luck.
 
