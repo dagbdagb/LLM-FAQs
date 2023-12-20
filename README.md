@@ -53,7 +53,9 @@ And while a sports car is both fast *and* quick, it may not have a lot of capaci
 * latency
 * capacity
 
-And while all of the above is important, software optimization and adaption to the hardware at hand is just as important. Now, most of us do not have the budget to buy custom hardware for playing with LLMs. So we largely all have access to buy the same hardware. If you are a gamer, you optimize for framerate and buy a shiny GPU. For other stuff, you want a speedy CPU with lots and lots of cores. What matters for running LLMs?    
+And while all of the above is important, software optimization and adaption to the hardware at hand is just as important. Now, most of us do not have the budget to buy custom hardware for playing with LLMs. So we largely all have access to buy the same hardware. If you are a gamer, you optimize for framerate and buy a shiny GPU. For other stuff, you may want a CPU with a few very speedy cores. Or a CPU with less speedy, but many cores.  
+
+What matters for running LLMs?    
 
 For running a local LLM, the primary bottleneck is memory (RAM) *size*. You need enough memory to load the model of your choice into memory, in order to play with it. Using a pagefile/swap as a substitute for real memory has been the solution for decades. Technically, his also works for LLMs, but you don't want to. 
 
