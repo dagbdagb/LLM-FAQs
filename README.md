@@ -35,13 +35,21 @@ Yes. But not yet, young padavan. You don't know what what that means yet. And we
 Well. Would you like to? You don't need to have a reason. And even if you do, you don't owe neither us nor anyone else to state your reason(s) publicly. We respect your privacy and ability to make informed decisions. We hope you pay it forward.
 
 ### What is required to run my own LLM at home?
-Yes. In order to......
+In order to run an LLM locally, your first order of business is this figure out the purpose it is going to serve. If it is just as a vehicle for learning a bit about LLMs, a tiny model would technically fit on your mobile phone. But almost any PC from the last 10 years or so would be a better choice and should be able to load a tiny LLM.  
+
+If it is for a particular purpose, you need to:
+* define your scope and criteria for success
+* learn a bit more to figure out what kind of model you need
+* research what model can fulfill that role
+* research what is required to run the model (and size) you need
+
+This document may guide you.
 
 ### Can I run my own LLM in the Cloud?
-Yes. There are plenty options.....
+Yes. There are plenty options for that. Or even for using someone else's LLM. Like ChatGPT.
 
 ### Can I run an LLM at home, without Internet access?
-Yes. You just need to get the LLM and the supporting software and libraries installed. After that, the local LLM itself does not access the Internet.
+Yes. You just need to get the LLM and the supporting software and libraries installed somehow. The local LLM itself does not require access the Internet. That is, most of them (at the time of writing) are not even able to access the network or even files on your computer.
 
 ### How is the quality of an LLM measured?
 Also known as Benchmarking, statistics and other lies.
@@ -54,6 +62,8 @@ More Benchmarking, statistics and other lies.
 The terminology you find in this section may be some of the first stumbling blocks when starting out. More follows in later sections.
 
 ### LLM families
+
+### LLM sizes - tiny/small/medium/large/enterprise
 
 ### LLM formats
 
