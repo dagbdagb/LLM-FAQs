@@ -21,8 +21,11 @@ Yes. In order to......
 ### Can I run my own LLM in the Cloud?
 Yes. There are plenty options.....
 
-### How is the quality of an LLM measured
+### How is the quality of an LLM measured?
 Also known as Benchmarking, statistics and other lies.
+
+### How is the performance of an LLM measured?
+More Benchmarking, statistics and other lies.
 
 
 ## Hardware for hosting a local LLM
