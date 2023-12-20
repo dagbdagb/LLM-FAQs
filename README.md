@@ -165,18 +165,22 @@ And finally, when you have sufficient memory *bandwidth* to get acceptable (to y
 
 ### PyTorch
 
+
 ## Medium Advanced Terminology
 
 ### Perplexity
 
 ### Merged model
 
-### Rope scaling or something.
+### Rope scaling or something
+
+### Tensor
 
 
 ## Advanced Terminology and other Magic
 
 ## How do I.....
+
 
 ## This FAQ is lame. It totally forgets to say something about.....
 
