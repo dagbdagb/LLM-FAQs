@@ -90,9 +90,9 @@ Any computer has a multitude of bottlenecks. If we focus on the hardware *only*,
 * interconnects (buses)
 
 And while a sports car is both fast *and* quick, it may not have a lot of capacity for moving *lots of stuff*. In other words, the actual bottleneck for *each item* in the list above *may* be either one of:
-* speed
-* latency
-* capacity
+* speed (how fast)
+* latency (how quickly)
+* capacity (how much)
 
 And while all of the above is important, software optimization and adaption to the hardware at hand is just as important. Now, most of us do not have the budget to buy custom hardware for playing with LLMs. So we largely all have access to buy the same hardware. If you are a gamer, you optimize for framerate and buy a shiny GPU. For other stuff, you may want a CPU with a few very speedy cores. Or a CPU with less speedy, but many cores.  
 
