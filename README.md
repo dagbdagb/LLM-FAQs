@@ -40,12 +40,14 @@ Any computer has a multitude of bottlenecks. If we focus on the hardware *only*,
 * GPU
 * interconnects (buses)
 
-And while a sports car is both fast *and* quick, it may not have a lot of capacity for moving *lots of stuff*. In other words, the actual bottleneck may be either one of:
+And while a sports car is both fast *and* quick, it may not have a lot of capacity for moving *lots of stuff*. In other words, the actual bottleneck for each item in the list above *may* be either one of:
 * speed
 * latency
 * capacity
 
-Lorem ipsum.......
+And while all of the above is important, software optimization and adaption to the hardware at hand is just as important. Now, most of us do not have the budget to buy custom hardware for playing with LLMs. So we largely all have the same hardware at our disposal. For running a local LLM, the primary bottleneck is memory *size*. (RAM) Using a pagefile/swap as substitute for memory has been the solution for decades. Technically, his also works for LLMs, but you don't want to. Because when the requirement for memory size has been fulfilled, memory bandwidth is *the* most important hardware parameter to optimize for. And while system memory (DIMMs) in combination with a current Intel or AMD CPU may give ~20x better bandwidth (and latency( than your fancy M.2 NVME drive, it is still ~10x slower than the memory bandwidth of a high-end GPU.
+
+More stuff ......xxx current requirement to have decent performance from a model of decent quality (enough parameters at a sufficiently high level of quantization
 
 ### CPU vs GPU
 
