@@ -102,7 +102,7 @@ More stuff ......xxx current requirement to have decent performance from a model
 
 ### Merged model
 
-### 
+### Rope scaling or something.
 
 
 ## Advanced Terminology
