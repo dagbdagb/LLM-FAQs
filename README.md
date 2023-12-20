@@ -40,7 +40,7 @@ More Benchmarking, statistics and other lies.
 
 ## Hardware for hosting a local LLM
 
-### High-level overview - what performance *matters* for LLMs?
+### High-level overview - what hardware capabilities and performance *matters* for running local LLMs?
 
 Any computer has a multitude of bottlenecks. If we focus on the hardware *only*, the following is a good list:
 * storage
