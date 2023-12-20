@@ -35,7 +35,7 @@ Yes. But not yet, young padavan. You don't know what what that means yet. And we
 Well. Would you like to? You don't need to have a reason. And even if you do, you don't owe neither us nor anyone else to state your reason(s) publicly. We respect your privacy and ability to make informed decisions. We hope you pay it forward.
 
 ### What is required to run my own LLM at home?
-In order to run an LLM locally, your first order of business is this figure out the purpose it is going to serve. If it is just as a vehicle for learning a bit about LLMs, a tiny model would technically fit on your mobile phone. But almost any PC from the last 10 years or so would be a better choice and should be able to load a tiny LLM.  
+In order to run an LLM locally, your first order of business is to figure out the purpose it is going to serve. If it is just as a vehicle for learning a bit about LLMs, a tiny model would technically fit on your mobile phone. But almost any PC from the last 10 years or so would be a better choice and should be able to load a tiny LLM.  
 
 If it is for a particular purpose, you need to:
 * define your scope and criteria for success
