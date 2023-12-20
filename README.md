@@ -153,7 +153,8 @@ And finally, when you have sufficient memory *bandwidth* to get acceptable (to y
 ### The Laws of Physics still apply
 
 ## Resources and pointers
-May have to split this into multiple sections.
+### pointers to LLM timelines (who published what when)
+
 
 
 
