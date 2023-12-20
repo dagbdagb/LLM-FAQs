@@ -75,9 +75,13 @@ More stuff ......xxx current requirement to have decent performance from a model
 
 ### Front-end
 
-### Prompt
+### Prompt/template
 
 ### Training
+
+### Fine-tuning
+
+### Reinforcement Learning from Human Feedback (RLHF)
 
 ### Inference
 
