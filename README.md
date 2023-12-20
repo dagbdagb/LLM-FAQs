@@ -23,7 +23,11 @@ Good luck.
 
 ### Can I run my own LLM?
 
+### Can I create my own LLM?
+Yes. But not yet, young padavan. You don't know what what that means yet. And we don't know what *you* mean by 'create' exactly. So hold that thought for a while.
+
 ### Why would I want to run my own LLM?
+Well. Would you like to? You don't need to have a reason. And even if you do, you don't owe neither us nor anyone else to state your reason(s) publicly.  
 
 ### What is required to run my own LLM at home?
 Yes. In order to......
@@ -39,6 +43,7 @@ More Benchmarking, statistics and other lies.
 
 
 ## Basic Terminology
+The terminology you find in this section may be some of the first stumbling blocks when starting out.
 
 ### LLM families
 
