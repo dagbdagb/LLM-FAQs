@@ -114,8 +114,19 @@ More stuff ......xxx current requirement to have decent performance from a model
 
 ## Software for hosting a local LLM
 
+### Operating Systems
 
-## Medium Terminology
+### Libraries and toolkits for particular hardware
+
+#### Nvidia Cuda
+
+#### AMD ROCm
+
+#### Intel OneAPI
+
+### PyTorch
+
+## Medium Advanced Terminology
 
 ### Perplexity
 
@@ -124,7 +135,7 @@ More stuff ......xxx current requirement to have decent performance from a model
 ### Rope scaling or something.
 
 
-## Advanced Terminology
+## Advanced Terminology and other Magic
 
 ## How do I.....
 
