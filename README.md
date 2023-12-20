@@ -14,7 +14,7 @@ Good luck.
 ## The Very High-level Stuff
 
 ### What is an LLM?
-A Large Language Model is.....
+A Large Language Model is, seen from a sufficiently large distance, kind of like a giant zipfile of a huge collection of documents. But in order to obtain better compression of our zipfile, we accept lossy compression. That is, we cannot actually recreate the orginal documents, neither the contents or the structure. But given a word or a sentence, we can calculate what words are most likely to come next. And when we have the next word, we can redo the process. This may sound absolutely crazy, so will just let an actual expert explain it instead: (Intro to Large Language Models)[https://www.youtube.com/watch?v=zjkBMFhNj_g]
 
 ### Is ChatGPT an LLM?
 Yes. ChatGPT is a commercial product by OpenAI, who was first to provide mass-market access to a commercial grade LLM.
