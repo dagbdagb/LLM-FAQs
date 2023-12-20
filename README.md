@@ -5,6 +5,8 @@ Please understand that the introduction of Large-Language Models (LLMs) to the m
 
 Also, this is not intended to be a deep-dive into any particular concept within Large Language Models. Consider it a kind of "coloring book" where you get to decide the color (shape, taste, size, texture) of each individual sub-topic.
 
+We have tried to order sections and sub-topics in a somewhat logic or pedagogic order. Feel free to tell us where we fail at this.
+
 Finally, it is not our intention to promote any particular hardware, software, company, brand, person or other entity. We just want this to be a guide for your personal journey, and not to guide you down a particular path.  
 
 Good luck.
