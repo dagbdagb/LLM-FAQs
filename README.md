@@ -3,7 +3,9 @@ What follows is an attempt at creating the document we wanted to have at hand wh
 
 Please understand that the introduction of Large-Language Models (LLMs) to the masses is an event which in scale and importance mirrors the introduction of the Internet itself to the masses. Stuff is currently happening at an absolute breakneck speed, and what is written here was likely true at the point in time it was written. It may no longer be (completely) true by the time you are reading it, or some essential technology/software/model/concept/whatever may have been invented or discovered after this was written.
 
-Finally, it is not our intention to promote any particular hardware, software, company, brand, person or other entity. We just want this to be a guide for your personal journey, and not to guide you down a particular path. Good luck.
+Finally, it is not our intention to promote any particular hardware, software, company, brand, person or other entity. We just want this to be a guide for your personal journey, and not to guide you down a particular path.  
+
+Good luck.
 
 ## The Very High-level Stuff
 
