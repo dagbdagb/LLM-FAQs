@@ -36,13 +36,13 @@ More Benchmarking, statistics and other lies.
 
 Any computer has a multitude of bottlenecks. If we focus on the hardware *only*, the following is a good list:
 * storage
-* net
+* network
 * memory
 * CPU
 * GPU
 * interconnects (buses)
 
-And while a sports car is both fast *and* quick, it may not have a lot of capacity for moving *lots of stuff*. In other words, the actual bottleneck for each item in the list above *may* be either one of:
+And while a sports car is both fast *and* quick, it may not have a lot of capacity for moving *lots of stuff*. In other words, the actual bottleneck for *each item* in the list above *may* be either one of:
 * speed
 * latency
 * capacity
