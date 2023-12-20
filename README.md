@@ -40,6 +40,9 @@ Yes. In order to......
 ### Can I run my own LLM in the Cloud?
 Yes. There are plenty options.....
 
+### Can I run an LLM at home, without Internet access?
+Yes. You just need to get the LLM and the supporting software and libraries installed. After that, the local LLM itself does not access the Internet.
+
 ### How is the quality of an LLM measured?
 Also known as Benchmarking, statistics and other lies.
 
