@@ -32,7 +32,7 @@ Yes. And yes. If you are allowed to own and operate a computer, you may also run
 Yes. But not yet, young padavan. You don't know what what that means yet. And we don't know what *you* mean by 'create' exactly. So hold that thought for a while.
 
 ### Why would I want to run my own LLM?
-Well. Would you like to? You don't need to have a reason. And even if you do, you don't owe neither us nor anyone else to state your reason(s) publicly.  
+Well. Would you like to? You don't need to have a reason. And even if you do, you don't owe neither us nor anyone else to state your reason(s) publicly. We respect your privacy and ability to make informed decisions. We hope you pay it forward.
 
 ### What is required to run my own LLM at home?
 Yes. In order to......
