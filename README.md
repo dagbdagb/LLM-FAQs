@@ -45,6 +45,8 @@ And while a sports car is both fast *and* quick, it may not have a lot of capaci
 * latency
 * capacity
 
+Lorem ipsum.......
+
 ### CPU vs GPU
 
 ### CPU
