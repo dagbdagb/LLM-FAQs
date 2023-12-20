@@ -38,6 +38,38 @@ Also known as Benchmarking, statistics and other lies.
 More Benchmarking, statistics and other lies.
 
 
+## Basic Terminology
+
+### LLM families
+
+### LLM formats
+
+### LLM quantization
+
+### Loader
+
+### Front-end
+
+### Prompt/template
+
+### Training
+
+### Fine-tuning
+
+### Reinforcement Learning from Human Feedback (RLHF)
+
+### Inference
+
+### Context
+
+### API
+
+### Multi-modality
+
+
+
+
+
 ## Hardware for hosting a local LLM
 
 ### High-level overview - what hardware capabilities and performance *matters* for running local LLMs?
@@ -81,34 +113,6 @@ More stuff ......xxx current requirement to have decent performance from a model
 
 
 ## Software for hosting a local LLM
-
-## Basic Terminology
-
-### LLM families
-
-### LLM formats
-
-### LLM quantization
-
-### Loader
-
-### Front-end
-
-### Prompt/template
-
-### Training
-
-### Fine-tuning
-
-### Reinforcement Learning from Human Feedback (RLHF)
-
-### Inference
-
-### Context
-
-### API
-
-### Multi-modality
 
 
 ## Medium Terminology
