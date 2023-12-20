@@ -1,7 +1,7 @@
 # Intro
 What follows is an attempt at creating the document we wanted to have at hand when we started messing around with LLMs. It tries to give you a kickstart when it comes to understanding the shape, color and taste of *a lot* of brand new technology and terminology/lingo.  
 
-Please understand that the introduction of LLMs to the masses is an event mirroring the introduction of the Internet itself to the masses. Stuff is happening at an absolute breakneck speed, and what is written here was likely true at the point in time it was written. It may no longer be (completely) true by the time you are reading it, or some essential technology/software/model/concept/whatever may have been invented or discovered after this was written.
+Please understand that the introduction of LLMs to the masses is an event which in scale and importance mirrors the introduction of the Internet itself to the masses. Stuff is currently happening at an absolute breakneck speed, and what is written here was likely true at the point in time it was written. It may no longer be (completely) true by the time you are reading it, or some essential technology/software/model/concept/whatever may have been invented or discovered after this was written.
 
 ## The Very High-level Stuff
 
