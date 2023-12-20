@@ -111,6 +111,12 @@ More stuff ......xxx current requirement to have decent performance from a model
 
 ## How do I.....
 
+## This FAQ is lame. It totally forgets to say something about.....
+
+### Big Claims require Big Evidence
+
+### The Laws of Physics still apply
+
 ## Resources and pointers
 May have to split this into multiple sections.
 
