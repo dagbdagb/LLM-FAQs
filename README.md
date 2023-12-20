@@ -31,6 +31,18 @@ More Benchmarking, statistics and other lies.
 ## Hardware for hosting a local LLM
 
 ### High-level overview - what performance *matters* for LLMs?
+Any computer has a multitude of bottlenecks. If we focus on the hardware *only*, the following is a good list:
+* storage
+* net
+* memory
+* CPU
+* GPU
+* interconnects (buses)
+
+And while a sports car is both fast *and* quick, it may not have a lot of capacity for moving *lots of stuff*. In other words, the actual bottleneck may be either one of:
+* speed
+* latency
+* capacity
 
 ### CPU vs GPU
 
