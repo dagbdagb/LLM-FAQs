@@ -43,7 +43,7 @@ More Benchmarking, statistics and other lies.
 
 
 ## Basic Terminology
-The terminology you find in this section may be some of the first stumbling blocks when starting out.
+The terminology you find in this section may be some of the first stumbling blocks when starting out. More follows in later sections.
 
 ### LLM families
 
