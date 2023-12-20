@@ -9,7 +9,7 @@ Lorem Ipsum
 
 ### What can an LLM do for me?
 
-### What can't LLMs do (particularly well. yet.)
+### What can't LLMs do? (particularly well. yet.)
 
 ### Can I run my own LLM?
 
