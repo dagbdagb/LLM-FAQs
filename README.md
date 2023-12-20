@@ -53,9 +53,11 @@ And while all of the above is important, software optimization and adaption to t
 
 For running a local LLM, the primary bottleneck is memory (RAM) *size*. You need enough memory to load the model of your choice into memory, in order to play with it. Using a pagefile/swap as substitute for memory has been the solution for decades. Technically, his also works for LLMs, but you don't want to. 
 
-Because when the requirement for memory size has been fulfilled, memory bandwidth is *the* most important hardware parameter to optimize for. And while system memory (DIMMs) in combination with a current Intel or AMD CPU may give ~20x better bandwidth (and latency( than your fancy M.2 NVME drive, it is still ~10x slower than the memory bandwidth of a high-end GPU.
+Because when the requirement for memory size has been fulfilled, memory bandwidth is *the* most important hardware parameter to optimize for. And while system memory (DIMMs) in combination with a current Intel or AMD CPU may give ~20x better bandwidth (and latency( than your fancy M.2 NVME drive, it is still ~10x slower than the memory bandwidth of a high-end GPU. Current high-end GPUs for the consumer market tops out at 24GB. This allows for running decent sized ("quality") models at decent speed ("tokens per second"). GPUs with less memory (than the top-end) mostly also have less memory bandwidth. I.e. they are slower. But still faster than you system memory (DIMMs in your motherboard).
 
-And finally, when you have sufficient memory bandwidth to get acceptable (to you) speed (tokens per second) out of your model, you will likely want to increase the amount of memory in order to be able to load a bigger model or get more context. TODO: internal link.
+And finally, when you have sufficient memory bandwidth to get acceptable (to you) speed (tokens per second) out of your model, you will likely want to increase the amount of memory in order to be able to load a bigger model or get more context. 
+
+TODO: internal link.
 
 More stuff ......xxx current requirement to have decent performance from a model of decent quality (enough parameters at a sufficiently high level of quantization
 
