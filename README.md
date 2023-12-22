@@ -59,10 +59,14 @@ If we consider an LLM we interact with via text, the layman interpretation of qu
 Other aspects of an LLM may also sort under 'quality': how natural the language sounds, the ability to not give out information deemed harmful or offensive, the ability to keep track of the conversation over time. Etcetera.
 
 ### How is the performance of an LLM measured?
-There are a number of factors which goes under the 'performance' label. For the trivially measurable stuff, we have at least:
+There are a number of factors which goes under the 'performance' label. And technically, we measure the performance of an LLM on a particular set of hardware. For the trivially measurable stuff, we have at least:
 * required time to process the prompt and start responding
 * units of output per time ("tokens per second")
 * length of output
+
+Depending on your perspective, other factors may impact the performance rating:
+* cost of hardware
+* energy consumption
 
 ## Basic Terminology
 The terminology you find in this section may be some of the first stumbling blocks when starting out. More follows in later sections.
