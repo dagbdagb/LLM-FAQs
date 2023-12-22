@@ -31,7 +31,7 @@ This too.
 Yes. And yes. If you are allowed to own and operate a computer, you may also run your own LLM. As far as we know. None of this is legal advice, by the way.
 
 ### Can I create my own LLM?
-Yes. But not yet, young padawan. You don't know what what that means yet. And we don't know what *you* mean by 'create' exactly. So hold that thought for a while.
+Yes. But not yet, young padawan. You don't know what that means yet. And we don't know what *you* mean by 'create' exactly. So hold that thought for a while.
 
 ### Why would I want to run my own LLM?
 Well. Would you like to? You don't need to have a reason. And even if you do, you don't owe neither us nor anyone else to state your reason(s) publicly. We respect your privacy and ability to make informed decisions. We hope you pay it forward.
