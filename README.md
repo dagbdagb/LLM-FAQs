@@ -65,8 +65,8 @@ There are a number of factors which goes under the 'performance' label. And tech
 * length of output
 
 Depending on your perspective, other factors may impact the performance rating:
-* cost of hardware
-* energy consumption
+* investment - cost of hardware
+* running costs - energy consumption
 
 ## Basic Terminology
 The terminology you find in this section may be some of the first stumbling blocks when starting out. More follows in later sections.
