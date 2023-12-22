@@ -51,7 +51,7 @@ This document may guide you.
 Yes. There are plenty options for that. Or even for using someone else's LLM. Like ChatGPT.
 
 ### Can I run an LLM at home, without Internet access?
-Yes. You just need to get the LLM and the supporting software and libraries installed somehow. The local LLM itself does not require access the Internet. That is, most of them (at the time of writing) are not even able to access the network or even files on your computer.
+Yes. You just need to get the LLM and the supporting software and libraries installed somehow. The local LLM itself does not require access to the Internet. That is, most of them (at the time of writing) are not even able to access the network or even files on your computer.
 
 ### How is the quality of an LLM measured?
 If we consider an LLM we interact with via text, the layman interpretation of quality may be something along the lines of "truthfulness" or "usability". As in: is the response factually true, and is it helpful. The first can really only be measured in absolute terms for binary questions. (Ones having a yes/no question). The second may be hard to give an absolute number. ("This response is 74,3% helfpul" sounds odd, right?). But by setting up LLMs to compete against each other by answering the same prompt, we can employ humans to judge which one gave the better answer. So even if we cannot trivially put an objective, absolute number to the quality of any LLM, we *can* measure the relative quality of one LLM to another.
