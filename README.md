@@ -180,6 +180,8 @@ And finally, when you have sufficient memory *bandwidth* to get acceptable (to y
 
 ### Perplexity
 
+### Temperature
+
 ### Merged model
 
 ### Rope scaling or something
