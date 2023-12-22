@@ -181,6 +181,7 @@ And finally, when you have sufficient memory *bandwidth* to get acceptable (to y
 ### Perplexity
 
 ### Temperature
+https://www.reddit.com/r/LocalLLaMA/comments/17vonjo/your_settings_are_probably_hurting_your_model_why/?utm_content=1
 
 ### Merged model
 
