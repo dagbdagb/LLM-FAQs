@@ -54,11 +54,15 @@ Yes. There are plenty options for that. Or even for using someone else's LLM. Li
 Yes. You just need to get the LLM and the supporting software and libraries installed somehow. The local LLM itself does not require access the Internet. That is, most of them (at the time of writing) are not even able to access the network or even files on your computer.
 
 ### How is the quality of an LLM measured?
-Also known as Benchmarking, statistics and other lies.
+If we consider an LLM we interact with via text, the layman interpretation of quality may be something along the lines of "truthfulness" or "usability". As in: is the response factually true, and is it helpful. The first can really only be measured in absolute terms for binary questions. (Ones having a yes/no question). The second may be hard to give an absolute number. ("This response is 74,3% helfpul"). But by setting up LLMs to compete against each other by answering the same prompt, we can employ humans to judge which one gave the better answer. So even if we cannot trivially put an objective, absolute number to the quality of any LLM, we *can* measure the relative quality of one LLM to another.
+
+Other aspects of an LLM may also sort under 'quality': how natural the language sounds, the ability to not give out information deemed harmful or offensive, the ability to keep track of the conversation over time. Etcetera.
 
 ### How is the performance of an LLM measured?
-More Benchmarking, statistics and other lies.
-
+There are a number of factors which goes under the 'performance' label. For the trivially measurable stuff:
+* required time to process the prompt
+* units of output per time
+* length of output
 
 ## Basic Terminology
 The terminology you find in this section may be some of the first stumbling blocks when starting out. More follows in later sections.
