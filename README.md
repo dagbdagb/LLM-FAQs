@@ -1,4 +1,4 @@
-# This is a Work in Progress, Feel free to contribute,
+# This is a Work in Progress, feel free to contribute,
 
 # Intro
 What follows is an attempt at creating the document we wanted to have at hand when we started messing around with LLMs. It tries to give you a kickstart when it comes to understanding the shape, color and taste of *a lot* of brand new technology and terminology/lingo.  
