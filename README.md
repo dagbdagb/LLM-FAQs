@@ -140,7 +140,7 @@ For a tiny model, system memory in an average PC is often enough to load the mod
 
 Current high-end GPUs for the consumer market tops out at 24GB *VRAM*. The type of memory used on GPUs is speedier than system memory, and as the LLM processing now happens on the GPU, processing speed is also higher (GPUs are better than CPUs at the type of math involved in LLMs) and latency is lower. This allows for running decent sized ("quality") models at decent speed ("performance"). GPUs with less memory (than the top-end GPUs) mostly also have less memory bandwidth. I.e. they are slower. But still faster than your system memory (DIMMs in your motherboard).
 
-And finally, when you have sufficient memory *bandwidth* to get acceptable (to you) speed (tokens per second) out of your chosen model, you will likely want to increase the memory size in order to be able to load a bigger ("quality") model or get more context. This can be done a couple of ways:
+And finally, when you have sufficient memory *bandwidth* to get acceptable (to you) speed (tokens per second) out of your chosen model, you will likely want to increase the memory size in order to be able to load a bigger ("quality") model or be able to use more context. This can be done a couple of ways:
 * use system memory for the part of the model which doesn't fit on the GPU. See 'offloading' under Basic Terminology (TODO: link)
 * get a GPU with more memory
 * get a second GPU
