@@ -61,7 +61,7 @@ Other aspects of an LLM may also sort under 'quality': how natural the language 
 ### How is the performance of an LLM measured?
 There are a number of factors which goes under the 'performance' label. For the trivially measurable stuff:
 * required time to process the prompt
-* units of output per time
+* units of output per time ("tokens per second")
 * length of output
 
 ## Basic Terminology
