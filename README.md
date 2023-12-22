@@ -131,9 +131,10 @@ And while a sports car is both fast *and* quick, it may not have a lot of capaci
 * capacity (how much)
 
 Most of us do not have the budget to buy bespoke hardware for playing with LLMs. We largely all have access to buy the same hardware, and tend to optimize for the primary purpose of the PC. If you are a gamer, you optimize for framerate and buy a shiny GPU. For other loads, you may want a CPU with a few very speedy cores. Or a CPU with less speedy, but many cores. What matters for running LLMs?    
-For running a local LLM, the primary bottleneck is memory (RAM) *size*. You need enough memory to load the model of your choice into memory, in order to play with it. Using a pagefile/swap as a substitute for real memory has been the solution for decades. Technically, this also works for LLMs, but you don't want to. 
 
-Because when the requirement for memory size has been fulfilled, memory bandwidth is *the* most important hardware parameter to optimize for, *when running LLMs*. Other computer workloads may have other requirements. And while system memory (DIMMs) in combination with a current Intel or AMD CPU may give ~20x better bandwidth (and latency( than your fancy M.2 NVME drive, it is still ~10x slower than the memory bandwidth of a high-end GPU.  
+For running a local LLM, the first requirement is to have suficient memory (RAM) *size*. You need enough memory to load the model of your choice into memory, in order to play with it. Using a pagefile/swap as a substitute for real memory has been the solution for decades. Technically, this also works for LLMs, but you don't want to. 
+
+Because when the requirement for memory size has been fulfilled, memory bandwidth is *the* most important hardware parameter to optimize for, *when running LLMs*. Other computer workloads may have other requirements. And while system memory (DIMMs) in combination with a current Intel or AMD CPU may give ~20x better bandwidth (and latency( than your fancy M.2 NVME drive, it is still ~10x slower than the memory bandwidth of a high-end GPU. So don't order the fancy memory sticks yet. Read on.
 
 For a tiny model, system memory in an average PC is often enough to load the model, and the CPU may have enough compute power to run the model at a speed which produces text faster than you can read it. Larger models will require more memory, faster memory, and faster compute.
 
