@@ -138,6 +138,8 @@ For running a local LLM, the primary bottleneck is memory (RAM) *size*. You need
 
 Because when the requirement for memory size has been fulfilled, memory bandwidth is *the* most important hardware parameter to optimize for, *when running LLMs*. Other computer workloads may have other requirements. And while system memory (DIMMs) in combination with a current Intel or AMD CPU may give ~20x better bandwidth (and latency( than your fancy M.2 NVME drive, it is still ~10x slower than the memory bandwidth of a high-end GPU.  
 
+For a tiny model, system memory in an average PC is often enough to load the model, and the CPU may have enough compute power to run the model at a speed which produces text faster than you can read it. Larger models will require more memory, faster memory, and faster compute.
+
 Current high-end GPUs for the consumer market tops out at 24GB *VRAM*. The type of memory used on GPUs is speedier than system memory, and as the LLM processing now happens on the GPU, processing speed is also higher (GPUs are better than CPUs at the type of math involved in LLMs) and latency is lower. This allows for running decent sized ("quality") models at decent speed ("performance"). GPUs with less memory (than the top-end GPUs) mostly also have less memory bandwidth. I.e. they are slower. But still faster than your system memory (DIMMs in your motherboard).
 
 And finally, when you have sufficient memory *bandwidth* to get acceptable (to you) speed (tokens per second) out of your chosen model, you will likely want to increase the memory size in order to be able to load a bigger ("quality") model or get more context. This can be done a couple of ways:
