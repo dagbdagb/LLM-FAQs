@@ -88,6 +88,8 @@ Offloading in the context of running LLMs refers to the use of both GPU VRAM **a
 
 ### Prompt/template
 
+### Prompt Engineering
+
 ### Training
 
 ### Fine-tuning
@@ -97,6 +99,8 @@ Offloading in the context of running LLMs refers to the use of both GPU VRAM **a
 ### Inference
 
 ### Context
+
+### Sequence Length
 
 ### API
 
@@ -193,6 +197,8 @@ https://www.reddit.com/r/LocalLLaMA/comments/17vonjo/your_settings_are_probably_
 ## Advanced Terminology and other Magic
 
 ## How do I.....
+
+## Mixture of Experts
 
 
 ## This FAQ is lame. It totally forgets to say something about.....
