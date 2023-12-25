@@ -180,7 +180,7 @@ And finally, when you have sufficient memory *bandwidth* to get acceptable (to y
 ### PyTorch
 
 
-## Medium Advanced Terminology
+## Medium/Advanced Terminology
 
 ### Perplexity
 
@@ -193,12 +193,11 @@ https://www.reddit.com/r/LocalLLaMA/comments/17vonjo/your_settings_are_probably_
 
 ### Tensor
 
+### Mixture of Experts
 
-## Advanced Terminology and other Magic
 
-## How do I.....
+### How do I.....
 
-## Mixture of Experts
 
 
 ## This FAQ is lame. It totally forgets to say something about.....
